@@ -1,0 +1,168 @@
+
+
+.profileCover
+{
+	width: 90%;
+	margin: 5%;
+	background-color: #346;
+}
+
+.profileCover h2
+{
+	width: 90%;
+	margin: 5%;
+	background-color: #346;
+}
+
+.profileCover button
+{
+	width: 32%;
+	margin: 0px;
+	background-color: blue;
+}
+
+.profileCover img
+{
+	width: 100%;
+	margin: 0%;
+	background-color: blue;
+}
+
+
+body
+{
+	background-color: black;
+	color: white;
+	margin: 0;
+}
+
+h1
+{
+	color: white;
+}
+
+h2
+{	
+	color: white;
+}
+
+h3
+{
+	color: white;
+}
+
+p
+{
+	color: white;
+}
+
+a 
+{
+	color: #ddd;
+}
+
+Button
+{
+		background-color: #37f;
+		color: white;
+}
+
+button:hover
+{
+	border-color: #19d;
+}
+
+#topHeader
+{
+	background-color: rgba(40, 80, 240, 0.5);
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	margin: 0;
+}
+
+#bottomHeader
+{
+	background-color: #038;
+	position: absolute;
+	top: 5%;
+	left: 0;
+	height: 5%;
+	width: 100%;
+	margin: 0;
+}
+
+#mainArea
+{
+	background-color: #222s;
+	position: absolute;
+	top: 10%;
+	left: 30%;
+	height: 90%;
+	width: 70%;
+	margin: 0;
+	overflow-y: scroll;
+}
+
+#sideArea
+{
+	background-color: #111;
+	position: absolute;
+	top: 10%;
+	left: 0;
+	height: 90%;
+	width: 30%;
+	margin: 0;
+	overflow-y: scroll;
+}
+
+.itemCover
+{
+	background-color: skyblue;
+	width: 200px;
+	height: 200px;
+	border-radius: 3px;
+}
+
+
+#remote
+{
+	background-image: url("remote.jpg");
+}
+
+.mediaScreen
+{
+	height: 90%;
+	width: 100%;
+	margin: 0%;
+}
+	
+.mediaScreen img
+{
+	height: 100%;
+	width:100%;
+	margin: 0;
+	
+}
+
+.btnOneHalf
+{
+	width: 50%;
+}
+
+.btnOneThird
+{
+	width: 30%;
+}
+
+.btnOneFourth
+{
+	width: 25%;
+}
+
+.btnFull
+{
+	width: 100%;
+}
